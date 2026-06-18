@@ -1,7 +1,7 @@
 :HL["/plena-trade-point/_next/static/chunks/33wx72n8uky_c.css","style"]
-:HL["/plena-trade-point/_next/static/chunks/329yuo_pga-8y.css","style"]
+:HL["/plena-trade-point/_next/static/chunks/3htqcx046ieyo.css","style"]
 :HL["/plena-trade-point/_next/static/chunks/3vjd_aouwnrf9.css","style"]
 :HL["/plena-trade-point/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plena-trade-point/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plena-trade-point/_next/static/chunks/1shdnadzv1hdm.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"deal-room","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"nuevo-c02","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"sdYJHy-garhib5oV1pxw9"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"deal-room","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"nuevo-c02","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"IqO2sfs1X9a8XmQar2goQ"}
