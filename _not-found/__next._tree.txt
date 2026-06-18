@@ -1,4 +1,4 @@
 :HL["/plena-trade-point/_next/static/chunks/33wx72n8uky_c.css","style"]
 :HL["/plena-trade-point/_next/static/chunks/329yuo_pga-8y.css","style"]
 :HL["/plena-trade-point/_next/static/chunks/3vjd_aouwnrf9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"0VxODMYy7g9B95qLFoqW0"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"sdYJHy-garhib5oV1pxw9"}
