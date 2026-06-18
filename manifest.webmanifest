@@ -1,0 +1,17 @@
+{
+  "name": "Trade Point · PLENA",
+  "short_name": "Trade Point",
+  "description": "El Trade Point de PLENA Parque Empresarial: empresas verificadas de Nariño, oportunidades, matching y operaciones trazables.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#235048",
+  "theme_color": "#235048",
+  "categories": ["business", "productivity"],
+  "lang": "es",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

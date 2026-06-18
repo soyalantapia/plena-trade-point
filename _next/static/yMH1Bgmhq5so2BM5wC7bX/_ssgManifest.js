@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdeal-room\u002F[id]","\u002Fempresa\u002F[id]","\u002Foportunidades\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
