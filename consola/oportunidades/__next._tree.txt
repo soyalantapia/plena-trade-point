@@ -4,4 +4,4 @@
 :HL["/plena-trade-point/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plena-trade-point/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/plena-trade-point/_next/static/chunks/0pqh_9-zw9n-o.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"consola","param":null,"prefetchHints":0,"slots":{"children":{"name":"oportunidades","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"chjXxYmlL_PXw8LJswmWW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"consola","param":null,"prefetchHints":0,"slots":{"children":{"name":"oportunidades","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"N5vQ8rzYo9VGe-gS-qeOb"}
